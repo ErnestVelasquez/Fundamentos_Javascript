@@ -1,0 +1,8 @@
+const persona = {
+  nombre: "Ernesto", 
+  apellido: "Cruz"
+}
+
+persona.nombre = "Jouse";
+
+console.log(persona.nombre);

@@ -1,0 +1,20 @@
+//Objetos literales, no indexados 
+const animal = {
+  color:"Naranja",
+  nombre:"BOB",
+  rugiendo: true,
+  favoritos:{
+    dia:{
+      ok: true,
+    },
+    noche:{
+      ok: false
+    }
+  }
+}
+
+//Guardar el valor de la propiedad color en una constante
+const color = animal.color;
+const nombre = animal.nombre;
+
+console.log("color: "+ color + ", animal: " + nombre);

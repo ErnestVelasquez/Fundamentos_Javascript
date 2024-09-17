@@ -1,0 +1,8 @@
+const contador = 1;
+
+if(true){
+  const contador = 5
+  console.log(contador);
+}
+
+console.log(contador);

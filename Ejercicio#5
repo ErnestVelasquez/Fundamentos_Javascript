@@ -1,0 +1,7 @@
+const tareas ={
+  "6465581d-sdhghbhf0" : {
+    title: "tarea #01"
+  }
+}
+
+console.log(tareas["6465581d-sdhghbhf0"].title);

@@ -1,0 +1,11 @@
+//Objetos literale, no indexados 
+const animal = {
+  color:"Naranja",
+  nombre:"BOB",
+  rugiendo: true
+} 
+
+console.log("Este leon es un bonito color " + animal.color);
+console.log("Y su nombre es: " + animal.nombre);
+
+console.log(animal["rugiendo"]);

@@ -1,0 +1,6 @@
+// Objetos literales y Opcional chaining operator 
+
+
+const frutas = ["Pera", "Manzana", "Naranja"];
+
+console.log(frutas[0]);
